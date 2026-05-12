@@ -1,4 +1,4 @@
-s@echo off
+@echo off
 chcp 65001 >nul
 title 🧹 CLEAR YOUR WINDOWS - ULTIMATE EDITION
 color 0A
